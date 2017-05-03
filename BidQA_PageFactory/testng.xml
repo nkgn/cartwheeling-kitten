@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="projectSuite">
+    <test name="login">
+        <parameter name="username" value="n_kgn"/>
+        <parameter name="password" value="kgn"/>
+        <parameter name="projectName" value="Travel1 test"/>
+        <parameter name="projectDes" value="automation test of travel"/>
+
+
+        <classes>
+            <class name="com.qauber.AppTest" />
+        </classes>
+
+    </test>
+</suite>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [com.qauber.AppTest]">
+  <test name="Command line test(failed)">
+    <classes>
+      <class name="com.qauber.AppTest">
+        <methods>
+          <include name="test0"/>
+          <include name="tearDown"/>
+          <include name="test1"/>
+          <include name="setUp"/>
+          <include name="test2"/>
+        </methods>
+      </class> <!-- com.qauber.AppTest -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [com.qauber.AppTest] -->

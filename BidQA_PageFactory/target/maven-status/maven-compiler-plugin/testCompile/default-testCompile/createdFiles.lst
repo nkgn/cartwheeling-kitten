@@ -1,0 +1,6 @@
+com\qauber\AppTest.class
+com\qauber\Utilities.class
+com\qauber\LoginPageFactory.class
+com\qauber\ProjectPageFactory.class
+com\qauber\HomePageFactory.class
+com\qauber\MyAccountPageFactory.class
