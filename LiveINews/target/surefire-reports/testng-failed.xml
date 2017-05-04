@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [projectSuite]">
+  <test name="login(failed)">
+    <classes>
+      <class name="com.uberAutomation.Test.AppTest">
+        <methods>
+          <include name="test0"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.uberAutomation.Test.AppTest -->
+    </classes>
+  </test> <!-- login(failed) -->
+</suite> <!-- Failed suite [projectSuite] -->
